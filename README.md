@@ -37,9 +37,7 @@ The project is split into a Next.js frontend and an Express API backend, with Su
 
 ## Screenshots
 
-![Dashboard](./public/screenshots/dashboard.png)
-![Customers](./public/screenshots/customers.png)
-![Invoices](./public/screenshots/invoices.png)
+Screenshots will be added from the cleaned demo version using fictional sample data.
 
 ## What This Project Proves
 
@@ -72,3 +70,7 @@ See `.env.example` for placeholder environment variable names. Do not commit rea
 ## Status
 
 Portfolio demo project for full-stack freelance work, dashboard development, and AI/coding evaluation gig applications.
+
+## Note
+
+This is a cleaned public portfolio version of a private project. The original development repo is private, but this version is prepared to demonstrate the app structure, features, UI, and implementation approach.
