@@ -1,0 +1,13 @@
+Marketing photos (Unsplash License — free for commercial use with attribution appreciated):
+
+- hero-pos.jpg — retail checkout
+- hero-market.jpg — retail display
+- feature-retail.jpg — shop interior
+- feature-restaurant.jpg — restaurant service
+- feature-inventory.jpg — warehouse / stock
+- feature-analytics.jpg — business analytics
+- about-team.jpg — team collaboration
+- about-office.jpg — modern workspace
+- avatar-1.jpg, avatar-2.jpg, avatar-3.jpg — portrait placeholders for testimonials
+
+Source: https://unsplash.com

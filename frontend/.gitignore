@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env.local
+*.log
+tsconfig.tsbuildinfo
+public/sw.js
+public/swe-worker-*.js
+public/workbox-*.js
