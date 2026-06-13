@@ -50,10 +50,10 @@ describe('pos offline helpers', () => {
       { id: 'c-2', name: 'Example User', phone: '0000000000' },
     ]);
 
-    expect(findCachedCustomers('ama')).toEqual([
+    expect(findCachedCustomers('demo')).toEqual([
       { id: 'c-1', name: 'Demo Customer', phone: '0000000000' },
     ]);
-    expect(findCachedCustomers('0201')).toEqual([
+    expect(findCachedCustomers('example')).toEqual([
       { id: 'c-2', name: 'Example User', phone: '0000000000' },
     ]);
   });
