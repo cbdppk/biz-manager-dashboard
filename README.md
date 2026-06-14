@@ -37,7 +37,25 @@ The project is split into a Next.js frontend and an Express API backend, with Su
 
 ## Screenshots
 
-Screenshots will be added from the cleaned demo version using fictional sample data.
+### Dashboard
+
+![Biz Manager dashboard overview](public/screenshots/dashboard.png)
+
+### Customers
+
+![Customer records and customer detail workflow](public/screenshots/customers.png)
+
+### Products
+
+![Product and inventory management screen](public/screenshots/products.png)
+
+### Invoices
+
+![Invoice management screen](public/screenshots/invoices.png)
+
+### AI Advisor
+
+![AI advisor business insights screen](public/screenshots/aiadvisor.png)
 
 ## What This Project Proves
 
